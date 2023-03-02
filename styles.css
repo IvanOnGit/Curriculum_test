@@ -1,0 +1,64 @@
+header{
+    background-image: url(/img/Banner.png);
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    margin-left: 12%;
+    margin-right: 12%;
+}
+
+.perfil{
+    height: 150px;
+    width: 150px;
+    margin-left: 42%;
+    margin-right: 20%;
+}
+
+body{
+    background-color: rgb(104, 111, 111);
+    padding-left: 12%;
+    padding-right: 12%;
+    font-family: "Times New Roman", Times, serif;
+}
+
+h1{
+    text-align: center;
+    margin-left: 13%;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+h2{
+    text-align: center;
+    margin-left: 13%;
+}
+
+.link{
+    color: black;
+}
+
+.linkedIn{
+        height: 50px;
+        width: 50px;
+        margin-left: 49%;
+}
+
+.gitHub{
+        height: 50px;
+        width: 50px;
+}
+
+#secondMain{
+        margin-right: 5%;
+}
+
+#secondH1{
+        margin-left: 20%;
+}
+
+#segundoLink{
+        margin-left:  20%;
+}
